@@ -1,4 +1,3 @@
 Contributers below:
 
-Ryley Fernandez
-Email: rnf45@nau.edu
+Ryley Fernandez - rnf45@nau.edu

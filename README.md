@@ -40,9 +40,6 @@ Contributors names and contact info
 Zach Schreiner 
 Email: zts46@nau.edu
 
-Ryley Fernandez
-Email: rnf45@nau.edu
-
 ## Version History
 
 * 0.1

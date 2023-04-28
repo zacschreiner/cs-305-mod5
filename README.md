@@ -1,6 +1,4 @@
-# cs-305-mod5# Project Title
-
-Simple overview of use/purpose.
+# cs-305-mod5
 
 ## Description
 
@@ -12,8 +10,6 @@ Creating a react website
 
 Windwos 10 or 11
 
-
-
 ### Installing
 
 Node.JS or WSL 2 installed 
@@ -22,12 +18,19 @@ Node.JS or WSL 2 installed
 
 
 To install the full React toolchain on WSL, we recommend using create-react-app:
+
 Open a terminal(Windows Command Prompt or PowerShell).
+
 Create a new project folder: mkdir ReactProjects and enter that directory: cd ReactProjects.
+
 Install React using create-react-app, a tool that installs all of the dependencies to build and run a full React.js application:
+
 In powershell run 'npx create-react-app my-app'
+
 This will first ask for your permission to temporarily install create-react-app and it's associated packages. Once completed, change directories into your new app ("my-app" or whatever you've chosen to call it): cd my-app.
+
 npm start
+
 When you're ready to deploy your web app to production, running npm run build will create a build of your app in the "build" folder.
 
 ## Authors
@@ -45,12 +48,3 @@ Email: zts46@nau.edu
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)

@@ -33,6 +33,10 @@ npm start
 
 When you're ready to deploy your web app to production, running npm run build will create a build of your app in the "build" folder.
 
+## Hypothetical Module
+
+Here is a potential Module 
+
 ## Authors
 
 Contributors names and contact info
